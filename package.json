@@ -1,0 +1,27 @@
+{
+  "name": "to-do",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/roboto": "^5.0.8",
+    "@mui/icons-material": "^5.14.16",
+    "@mui/material": "^5.14.16",
+    "@uidotdev/usehooks": "^2.4.1",
+    "next": "14.0.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "zustand": "^4.4.6"
+  },
+  "devDependencies": {
+    "eslint": "8.53.0",
+    "eslint-config-next": "14.0.1"
+  }
+}
